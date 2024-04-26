@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/rabbitor/radix"
+    "url": "https://github.com/axminor/radix"
   },
   "keywords": [
     "baseConverter",
